@@ -1,4 +1,4 @@
-# Vertex Support
+# Vertex Community
 
 If you have a feature request or integration question, search for an existing or create a new [Discussion](https://github.com/Vertexvis/vertex-support/discussions).
 
